@@ -1,0 +1,139 @@
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    #HeaderShop 
+    {
+    
+    }
+    #HeaderShop #HeaderShop-bg
+    {
+        
+    }
+    #HeaderShop #HeaderShop-title
+    {
+
+    }
+    #HeaderShop #HeaderShop-title h1
+    {
+        font-size: 2.6rem;
+    }    
+    #HeaderShop #HeaderShop-filter
+    {
+        width: 100%;
+    }
+    #HeaderShop #HeaderShop-filter #HeaderShop-lBox
+    {
+        width: 220px;
+    }
+    #HeaderShop #HeaderShop-filter #HeaderShop-lBox #HeaderShop-lsRBox h3
+    {
+        font-size: 0.8rem;
+    }
+    #HeaderShop #HeaderShop-filter #HeaderShop-lBox #HeaderShop-lsLBox h3
+    {
+        font-size: 1rem;
+    }
+    #HeaderShop #HeaderShop-filter #HeaderShop-rBox
+    {
+        width: 400px;
+    }
+    #HeaderShop #HeaderShop-filter #HeaderShop-lBox #HeaderShop-lsRBox
+    {
+        width: 200px;
+    }
+    #HeaderShop #HeaderShop-filter #HeaderShop-rBox #HeaderShop-rBox-rsLBox
+    {
+        width: 120px;
+    }
+    #HeaderShop #HeaderShop-filter #HeaderShop-rBox #HeaderShop-rBox-rsLBox button
+    {
+        width: 50px;
+    }
+    #HeaderShop #HeaderShop-filter #HeaderShop-rBox #HeaderShop-rBox-rsLBox h3
+    {
+        font-size: 0.9rem;
+    }
+    #HeaderShop #HeaderShop-filter #HeaderShop-rBox #HeaderShop-rBox-rsLBox button
+    {
+        width: 40px;
+        font-size: 0.8rem;
+        height: 40px;
+    }
+    #HeaderShop #HeaderShop-filter #HeaderShop-rBox #HeaderShop-rBox-rsRBox
+    {
+        width: 150px;
+    }
+    #HeaderShop #HeaderShop-filter #HeaderShop-rBox #HeaderShop-rBox-rsRBox h3
+    {
+        font-size: 0.8rem;
+    }
+    #HeaderShop #HeaderShop-filter #HeaderShop-rBox #HeaderShop-rBox-rsRBox button
+    {
+        width: 80px;
+        font-size: 0.8rem;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    #HeaderShop 
+    {
+    
+    }
+    #HeaderShop #HeaderShop-bg
+    {
+        
+    }
+    #HeaderShop #HeaderShop-title
+    {
+
+    }
+    #HeaderShop #HeaderShop-title h1
+    {
+        font-size: 2.6rem;
+    }    
+    #HeaderShop #HeaderShop-filter
+    {
+        width: 95%;
+    }
+    #HeaderShop #HeaderShop-filter #HeaderShop-lBox #HeaderShop-lsRBox
+    {
+        width: 200px;
+        border: 1px solid black;
+    }
+    #HeaderShop #HeaderShop-filter #HeaderShop-rBox
+    {
+        width: 400px;
+    }
+    #HeaderShop #HeaderShop-filter #HeaderShop-rBox #HeaderShop-rBox-rsLBox
+    {
+        width: 120px;
+    }
+    #HeaderShop #HeaderShop-filter #HeaderShop-rBox #HeaderShop-rBox-rsLBox button
+    {
+        width: 50px;
+    }
+    #HeaderShop #HeaderShop-filter #HeaderShop-rBox #HeaderShop-rBox-rsRBox
+    {
+        width: 200px;
+    }
+    #HeaderShop #HeaderShop-filter #HeaderShop-rBox #HeaderShop-rBox-rsRBox button
+    {
+        width: 100px;
+    }
+}
+@media screen and (min-width: 1024px) and (max-width: 1660px) {
+    #HeaderShop 
+    {
+    
+    }
+    #HeaderShop #HeaderShop-bg
+    {
+        
+    }
+    #HeaderShop #HeaderShop-title
+    {
+
+    }
+    #HeaderShop #HeaderShop-title h1
+    {
+        font-size: 2.8rem;
+    }    
+
+}

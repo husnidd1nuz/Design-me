@@ -1,0 +1,35 @@
+@media screen and (min-width: 320px) and (max-width:767px) {
+    #Contact
+    {
+        width: 100%;
+    }
+    #Contact #Contact-main .container #Contact-main-card
+    {
+        width: 100%;
+    }
+    #Contact #Contact-main .container #Contact-main-card #Contact-main-lCard
+    {
+        width: 45%;
+    }
+    #Contact #Contact-main .container #Contact-main-card #Contact-main-lCard #Contact-main-sCard
+    {
+        width: 95%;
+    }
+    #Contact #Contact-main .container #Contact-main-card #Contact-main-lCard #Contact-main-sCard #Contact-main-sLCard i
+    {
+        font-size: 1.2rem;
+    }
+    #Contact #Contact-main .container #Contact-main-card #Contact-main-lCard #Contact-main-sCard #Contact-main-sRCard h3
+    {
+        font-size: 1rem;
+    }
+    #Contact #Contact-main .container #Contact-main-card #Contact-main-lCard #Contact-main-sCard #Contact-main-sRCard p
+    {
+        font-size: 0.9rem;
+    }
+    #Contact #Contact-main .container #Contact-main-card #Contact-main-rCard button
+    {
+        width: 200px;
+        height: 60px;
+    }
+}
